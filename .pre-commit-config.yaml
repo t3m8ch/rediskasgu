@@ -30,6 +30,6 @@ repos:
         args: ['--config=ruff.toml']
       - id: ruff-format
         name: 'ruff-format backend'
-        files: 'rediskasgu-tgbot/.*\.py'
+        files: 'rediskasgu-backend/.*\.py'
         args: ['--config=ruff.toml']
 

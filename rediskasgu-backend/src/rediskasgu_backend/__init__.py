@@ -1,2 +1,2 @@
 def hello() -> str:
-    return "Hello from rediskasgu-backend!"
+    return 'Hello from rediskasgu-backend!'
